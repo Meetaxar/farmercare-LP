@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#para{
+    font-size: 12px;
+    text-align: end;
+}
+#para a{
+    text-decoration: underline;
+    color: blue;
+}
